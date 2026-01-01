@@ -1,5 +1,6 @@
 # 🧩 Sudoku
 
+[![DOI](https://zenodo.org/badge/1013710049.svg)](https://doi.org/10.5281/zenodo.18118082)
 [![License: Restricted Educational](https://img.shields.io/badge/License-Restricted_Educational-red.svg)](LICENSE)
 [![Brazilian Law Compliance](https://img.shields.io/badge/Compliance-Brazilian_Law_9.610/98-blue)](https://www.planalto.gov.br/ccivil_03/leis/l9610.htm)
 [![Java](https://img.shields.io/badge/Java-Swing_GUI-orange.svg)](https://docs.oracle.com/en/java/)
